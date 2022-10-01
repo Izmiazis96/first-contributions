@@ -4322,5 +4322,6 @@
 - [Angelo Pavilando](https://github.com/pavilandoangelo)
 - [M. Baharuddin Yusuf](https://github.com/ByeByu07)
 - [Aksel Telle](https://github.com/akseltelle)
+- [Izmiazis96](https://github.com/Izmiazis96)
 
 <!-- prettier-ignore-end -->
